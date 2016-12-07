@@ -1,0 +1,14 @@
+//a simple c++ program
+
+
+#include <iostream>
+
+int main()
+{
+
+
+return 0;
+
+
+}
+
