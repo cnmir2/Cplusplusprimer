@@ -1,1 +1,21 @@
 1.2 a first look at input/output
+
+#include<iostream>
+
+int main()
+
+{
+   int a=0,b=0;
+   std::cout << "please enter into two numbers:"  << std::endl;
+   std::cin >> a >> b;
+   std::cout << "you enter into two numbers:"  << "one is:" << a << "another is:" << b << "the sum of two numbers is:" << a+b << std::endl;
+   
+return 0;
+
+}
+
+1 sequentially over time 
+2 iotream
+3 object
+4 typically
+5 refer to as
