@@ -1,0 +1,46 @@
+c++ primer 1.4 flow ot control
+
+1.4.1 the while statement 
+
+
+#include <iostream>
+int main()
+{
+      int sum=0 ,val=1;
+
+      while (val<1=0)
+       {
+      sum+=val
+      ++val;
+       }
+
+std::cout<< "sum of 1 to 10 inclusiv is" << sum <<std::endl;
+
+return 0;
+}
+
+
+
+
+1 inclusive
+2 assign
+3 summmation
+4 start off
+5 alternately
+6 less-than-or-equal
+7 compaound
+8 assignment 
+9 essentially
+10 addition 
+11 increment
+12 loop 
+13 evaluate
+14 fall out of
+15 followed by
+16 subtract
+17 integer
+18 decrement
+19 specifed
+20 increment
+
+
