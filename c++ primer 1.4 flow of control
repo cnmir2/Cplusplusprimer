@@ -43,4 +43,62 @@ return 0;
 19 specifed
 20 increment
 
+1.4.2 the for statement 
 
+#include<iostream>
+
+int main()
+
+{
+int sum=0;
+if (int val=1;val<=10;++val)
+
+sum+=val;
+
+std::cout<< "sum of 1 to 10 inclusive is:" << sum << std::endl;
+
+return 0;
+}
+
+21 abbreviate
+22 equivalent to
+23 contrast
+24 familiarize sb with sth 
+25 compiler
+
+1.4.3 reading an unknown number of input
+
+#include<iostream>
+
+int main()
+
+{
+int sum=0,value=0;
+while(std::cin>>value)
+
+sum+=value;
+
+std::cout<<"sum is:"<<sum<<std::endl;
+
+return 0;
+
+
+}
+
+26 preceding
+27 section
+28 logical extension
+29 end-of-file
+30 evolve
+31 syntax
+32 grammar grammatically
+33 colloquially
+34 item of data
+35 declaration
+36 argument parameter
+37 identify identifier
+38 arrogant overly conceited conceit
+39 cycle
+40 is known as 
+41 edit-compile-debug
+42 compilation
