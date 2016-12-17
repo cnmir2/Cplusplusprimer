@@ -102,3 +102,64 @@ return 0;
 40 is known as 
 41 edit-compile-debug
 42 compilation
+
+
+
+1.4.4 the if statement
+//count  how many consecutive times each  distinct value appears in the input 
+
+#include<iostream>
+
+int main()
+{
+       int val=0,curval=0
+       if (std::cin>>val)
+       {
+             int  n=1;
+             while(std::cin>>curval) 
+                {
+                    if(curval==val)
+                 
+                    {
+                     ++n;
+                     
+                    }
+                   else 
+                   {
+                   std::cout<<val<<"occur"<<n<<"times"<<std::endl;
+                   
+                   val=curval;
+                   n=1;
+                   
+                   
+                   }
+            
+            
+                } 
+             std::cout<<val<<"occur"<<n<<"times"<<std::endl;
+
+
+       }
+
+
+
+       return 0;
+
+
+}
+
+43 distinct 
+44 cnsecutive 
+45 outermost
+46 keep track of
+47 equality operator
+48 indent indentation
+49 formatting
+50 nonblank
+51 such a definition
+52 delimit
+53 subsidiary
+54 consistently
+55 readability
+56 comprehension
+
